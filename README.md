@@ -3,10 +3,6 @@
 
 ---
 
-## 🔥 Eat 🍕 | Sleep 😴 | Code 👨‍💻 | Repeat 🔁  
-
----
-
 ## 📌 About Me  
 - 🚀 I’m currently working on **[ShelfMate](#)**  
 - 🌱 I’m currently learning **Full-Stack Development, Generative AI, and Cloud Technologies**  
